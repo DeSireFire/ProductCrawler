@@ -2,7 +2,7 @@
 Test Item Loaders
 """
 import unittest
-from ProductCrawler.itemloaders import *
+from products_crawler.itemloaders import *
 
 
 class ProductLoaderTest(unittest.TestCase):
